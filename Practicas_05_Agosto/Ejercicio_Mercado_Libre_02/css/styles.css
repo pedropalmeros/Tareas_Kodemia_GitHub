@@ -1,0 +1,35 @@
+body{
+margin: 0;
+}
+
+.top_container{
+    background-color: #ffef54;
+    height: 300px;
+}
+
+.middle_container{
+    background-color: #ededed;
+    height: 800px;
+    margin-top: -150px;
+
+}
+
+
+
+
+footer{
+    background-color: #ffffff;
+    text-align: center;
+}
+
+
+
+.middle_article{
+    background-color: #ffffff;
+    height: 500px;
+    width: 500px;
+    border: solid 10px;
+    border-color: black;
+    position:absolute;
+    
+}
